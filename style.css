@@ -1,0 +1,29 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+
+ body{
+  min-width: 290px;
+  color:#4d4e53;
+  font-family: 'Open Sans', Arial, sans-serif;
+  line-height: 1.5;
+  display: flex;
+  
+}
+#navbar{
+  position: fixed;
+  border: 1px solid black;
+  height: 100%;
+  width: 25%;
+  
+}
+#main-doc{
+  height: 100%;
+  width:75%;
+  margin-left: 28%;
+  margin-bottom: 8px;
+ 
+}
+
